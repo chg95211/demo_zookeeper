@@ -1,3 +1,3 @@
 # demo_zookeeper
 
-ide: eclilpse neno/idea
+ide: intellij/idea
